@@ -1,0 +1,6 @@
+{
+  "name": "PrepMate - Dual Study & Exam Dashboard",
+  "description": "All-in-one academic planner and competitive exam preparation dashboard for college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
